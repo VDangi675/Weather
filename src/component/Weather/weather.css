@@ -1,0 +1,44 @@
+
+h1{
+    color:blue
+}
+.data{
+    width: 100vw;;
+    height: 100vw;
+}
+.details{
+    background-color: lightpink;
+    border:5px solid rgb(207, 15, 15);
+    border-style:dashed;
+    width: 500px;
+    min-height: 400px;
+    max-height: 100vw;
+    margin-top: 5%;
+    margin-left:30%;
+    position:absolute;
+   
+
+}
+.city{
+    display: flex;
+    flex-direction: row;
+}
+
+.input{
+    width: 200px;
+    height: 40px;
+    margin: 20px;
+    text-align: center;
+    margin-left: 120px;
+}
+.btn{
+    width: 55px;
+    height: 45px;
+    margin: 20px;
+    margin-left: -19px;
+}
+
+.show_data
+{
+    border: 2px solid red;
+}
